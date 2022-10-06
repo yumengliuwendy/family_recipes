@@ -2,6 +2,6 @@
 
 Set of recipes as given by my grandma.
 
-- pizzas(T0D0)
-- sauces(T0D0)
-- spreads(T0D0)
+- pizas(T0D0)
+- sauses(T0D0)
+- reads(T0D0)
